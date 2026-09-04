@@ -1,0 +1,34 @@
+{
+  "repository": "everyinfra/everymail-plugin",
+  "visibility": "public",
+  "publicationStatus": "authorized-initial-publication",
+  "plugin": "everymail",
+  "skill": "everymail",
+  "displayName": "EveryMail",
+  "description": "EveryMail transactional email skill for Codex and Claude Code. REST sender-readiness checks, message preparation and approved single or batch delivery.",
+  "homepage": "https://everyinfra.com",
+  "topics": [
+    "everyinfra",
+    "agent-plugin",
+    "transactional-email",
+    "email-api",
+    "email-automation",
+    "agent-skill",
+    "rest-api",
+    "codex",
+    "claude-code",
+    "agent-skills"
+  ],
+  "searchIntent": "Transactional email preparation and approved sending for agents",
+  "readmeTitle": "EveryMail — Transactional email with recipient and send approval boundaries",
+  "keywordResearch": "Qualitative intent mapping; no search volume, difficulty or ranking estimates.",
+  "transport": "rest",
+  "version": "0.1.0",
+  "source": {
+    "repository": "everyinfra/everyinfra-agent-plugins",
+    "commit": "78d3fd694244529e5062c51006fc10ef0de9dc87",
+    "path": "plugins/everyinfra/skills/everymail/SKILL.md",
+    "sha256": "b62f6bae3ebb1f661320a7c435c96d1c521d5dca041966bda6e904822242205e"
+  },
+  "definition": "EveryMail is a standalone EveryInfra agent skill for transactional email through REST. It checks sender readiness, prepares supported message fields and recipient counts, and requires approval of the exact recipients and content before delivery."
+}

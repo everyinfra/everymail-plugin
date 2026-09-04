@@ -1,0 +1,16 @@
+# EveryMail
+
+> EveryMail is a standalone EveryInfra agent skill for transactional email through REST. It checks sender readiness, prepares supported message fields and recipient counts, and requires approval of the exact recipients and content before delivery.
+
+This is a documentation navigation index, not a ranking or model-ingestion guarantee.
+
+## Documentation
+
+- [Overview](README.md): use cases, limits and FAQ.
+- [简体中文](README.zh-CN.md): Chinese introduction and safe starting point.
+- [Setup](docs/setup.md): host installation and service prerequisites.
+- [Workflow](docs/workflow.md): execution and acceptance criteria.
+- [Prompts](examples/prompts.md): illustrative bounded requests.
+- [Security](SECURITY.md): permissions and secret handling.
+
+- [Capability reference](docs/reference.md): identity, scope, prerequisites and evidence sources.

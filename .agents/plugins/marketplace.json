@@ -1,0 +1,20 @@
+{
+  "name": "everymail-plugin",
+  "interface": {
+    "displayName": "Everymail Plugin"
+  },
+  "plugins": [
+    {
+      "name": "everymail",
+      "source": {
+        "source": "local",
+        "path": "./plugins/everymail"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

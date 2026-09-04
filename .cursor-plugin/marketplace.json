@@ -1,0 +1,13 @@
+{
+  "name": "everymail-plugin",
+  "owner": {
+    "name": "EveryInfra"
+  },
+  "plugins": [
+    {
+      "name": "everymail",
+      "source": "./plugins/everymail",
+      "description": "EveryMail transactional email skill for Codex and Claude Code. REST sender-readiness checks, message preparation and approved single or batch delivery."
+    }
+  ]
+}
