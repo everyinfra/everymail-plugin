@@ -1,5 +1,8 @@
 # EveryMail — Correo transaccional con aprobación de destinatarios y envío
 
+<!-- rq223-banner -->
+<p align="center"><img alt="EveryMail — Correo transaccional con aprobación de destinatarios y envío" src="assets/banner-es.jpg" width="100%"></p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">

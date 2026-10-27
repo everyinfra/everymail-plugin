@@ -1,5 +1,8 @@
 # EveryMail：事务邮件发送流程
 
+<!-- rq223-banner -->
+<p align="center"><img alt="EveryMail：事务邮件发送，收件人和发送都要确认" src="assets/banner-zh.jpg" width="100%"></p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
